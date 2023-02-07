@@ -1,0 +1,13 @@
+#first{
+    color:aquamarine;
+}
+#second{
+    color:rgb(200, 255, 0);
+}
+#third{
+    color:brown;
+}
+
+.mainDiv{
+    background-image: url("./images/bg.webp");
+}
